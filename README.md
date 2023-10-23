@@ -10,7 +10,11 @@ Fetch all the Users
 Add new book
 
 Fetch all the books
+
 Fetch specific book
+
 Delete a book 
+
 Borrow a book 
+
 Return a book
